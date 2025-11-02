@@ -44,6 +44,3 @@ From **movie recommendation systems** to **HUD-inspired portfolio designs**, I s
 
 ## 🏆 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=itsakshu08&limit=5&theme=react&combine_all_yearly_contributions=true)
-
-
-![To]()
