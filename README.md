@@ -7,7 +7,7 @@ I’m **Akshu K**, a BCA graduate specialized in **Data Science and Artificial I
 I enjoy developing **intelligent applications**, designing **clean interfaces**, and integrating **AI-powered APIs** that make data feel alive.  
 From **movie recommendation systems** to **HUD-inspired portfolio designs**, I strive to create seamless digital experiences that merge creativity with smart logic.  
 
-💡 *“Code that thinks and logic that feels.”*
+*<Code that thinks and logic that feels.>*
 
 ---
 
