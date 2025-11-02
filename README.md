@@ -37,14 +37,14 @@ I enjoy developing **intelligent applications**, designing **clean interfaces**,
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsakshu08&count_private=true&show_icons=true&theme=react&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsakshu08&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsperCode404&count_private=true&show_icons=true&theme=react&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EsperCode404&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
 
 ---
 
 ### 🧩 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsakshu08&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsperCode404&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
 
 ---
 
