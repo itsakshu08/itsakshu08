@@ -14,9 +14,8 @@ From **movie recommendation systems** to **HUD-inspired portfolio designs**, I s
 <img align="right" alt="AI Developer" width="400" src="https://i.pinimg.com/736x/ca/10/fb/ca10fb9ab0919c9f52ef3bb407f7c2d0.jpg">
 
 
-### 📬 Connect with Me
-[!]
----
+
+
 
 ### 🧠 Skills
 <p align="center">
