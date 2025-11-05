@@ -38,6 +38,7 @@ I enjoy developing **intelligent applications**, designing **clean interfaces**,
 ### 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsperCode404&count_private=true&show_icons=true&theme=react&hide_border=false)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=EsperCode404&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB&cache_seconds=7200)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsperCode404&theme=react-dark&hide_border=false)
@@ -48,11 +49,12 @@ I enjoy developing **intelligent applications**, designing **clean interfaces**,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsperCode404&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
 
+---
 
 <p align="center">
   <i>“Designed with 💙 by EsperCode404”</i>
 </p>
 
-
+---
 ## 🏆 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=EsperCode404&limit=5&theme=react&combine_all_yearly_contributions=true)
