@@ -38,9 +38,7 @@ I enjoy developing **intelligent applications**, designing **clean interfaces**,
 ### 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsperCode404&count_private=true&show_icons=true&theme=react&hide_border=false)
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EsperCode404&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=EsperCode404&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB&cache_seconds=7200)
 
 ---
 
